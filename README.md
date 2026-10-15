@@ -5,7 +5,7 @@
 > ### ⭐ 点点 Star!!!
 >
 > 如果 Agent OS 对你有帮助，请给仓库点一颗 Star，这是对开源最大的鼓励：  
-> **[github.com/Liu-PenPen/Agent-OS](https://github.com/genmwang3-sudo/Agent-OS)** ← 点右上角 **Star**
+点右上角 **Star**
 
 **持续更新：** 项目会持续维护与完善——修问题、打磨体验，并继续增加新功能（例如 macOS 安装包、更多通道与能力）。欢迎 Star / Issue / PR 一起推动。
 
