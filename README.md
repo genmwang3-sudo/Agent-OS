@@ -5,19 +5,9 @@
 > ### ⭐ 点点 Star!!!
 >
 > 如果 Agent OS 对你有帮助，请给仓库点一颗 Star，这是对开源最大的鼓励：  
-> **[github.com/Liu-PenPen/Agent-OS](https://github.com/Liu-PenPen/Agent-OS)** ← 点右上角 **Star**
+> **[github.com/Liu-PenPen/Agent-OS](https://github.com/genmwang3-sudo/Agent-OS)** ← 点右上角 **Star**
 
 **持续更新：** 项目会持续维护与完善——修问题、打磨体验，并继续增加新功能（例如 macOS 安装包、更多通道与能力）。欢迎 Star / Issue / PR 一起推动。
-
-### 技术沟通 · 加 V
-
-使用中有问题、想交流落地经验，或有功能建议，欢迎加微信沟通（微信扫码）：
-
-<p align="center">
-  <img src="apps/desktop/public/qr.jpg" alt="技术沟通加微信二维码" width="280" />
-</p>
-
-<p align="center"><b>小花花</b> · 扫码添加好友</p>
 
 **License:** [MIT](./LICENSE)
 
